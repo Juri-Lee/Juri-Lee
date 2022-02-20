@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mihoung Lee
-- 👀 I’m interested in Softeare Development 
+- 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning canvas and animtation in web application development
-- 📫 How to reach me : mihounglee@gmail.com
+- 📫 How to reach me : jurilee39@gmail.com
 
 <!---
 cm3603/cm3603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
