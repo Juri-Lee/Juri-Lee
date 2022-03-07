@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mihoung Lee
+- 👋 Hi, I’m Juri Lee
 - 👀 I’m interested in Software Development 
 - 🌱 I’m currently learning canvas and animtation in web application development
 - 📫 How to reach me : jurilee39@gmail.com
