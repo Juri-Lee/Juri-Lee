@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Juri Lee
-- 👀 I’m interested in Software Development 
-- 🌱 I’m currently learning canvas and animtation in web application development
-- 📫 How to reach me : jurilee39@gmail.com
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=JURI%20Lee&desc=Back-end%20Developer&animation=twinkling&fontSize=45&descSize=25&color=gradient&customColorList=1,1,1,1,10,10,27,27,27,28)
 
-<!---
-cm3603/cm3603 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)    
+#jurilee39@gmail.com
+
+![footer](https://capsule-render.vercel.app/api?type=cylinder&height=100&text=Thank%20You&fontSize=45&descSize=25&color=gradient&customColorList=0)
