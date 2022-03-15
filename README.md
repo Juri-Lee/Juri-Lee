@@ -1,4 +1,4 @@
-<div style={{width:100%}}>
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=JURI%20Lee&desc=Back-end%20Developer&animation=twinkling&fontSize=45&descSize=25&color=gradient&customColorList=1,1,1,1,10,10,27,27,27,28)
 
