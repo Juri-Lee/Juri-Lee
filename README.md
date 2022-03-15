@@ -8,6 +8,6 @@
 ![Juri's github stats](https://github-readme-stats.vercel.app/api?username=Juri-Lee&show_icons=true)
 [![Juri's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Juri-Lee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Juri-Lee)
 
-![footer](https://capsule-render.vercel.app/api?type=cylinder&height=70&text=Thank%20You&fontSize=45&descSize=25&color=gradient&customColorList=0)
+![footer](https://capsule-render.vercel.app/api?type=cylinder&height=80&text=Thank%20You&fontSize=45&descSize=25&color=gradient&customColorList=0)
 
 </div>
