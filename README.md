@@ -40,7 +40,7 @@
   
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jurilee)](www.linkedin.com/in/jurilee)
   
-[![WordPress Badge](https://img.shields.io/badge/Personal Blog-21759B?style=flat-square&logo=WordPress&logoColor=white&link=http://www.iamtheminions.com)](http://www.iamtheminions.com)
+[![WordPress Badge](https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=WordPress&logoColor=white&link=http://www.iamtheminions.com)](http://www.iamtheminions.com)
  
 </div>
 
