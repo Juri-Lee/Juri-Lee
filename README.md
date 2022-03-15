@@ -33,6 +33,15 @@
 
 </div>
 
+<div>
+  <br>
+  <br>
+  <h1>Contact</h1>
+  <img src="https://img.shields.io/badge/Gmail-3DDC84?style=flat-square&logo=Gmail&logoColor=EA4335"/>
+  <br>
+  <br>
+ </div>
+
 <div align=center> 
   
 ![Juri's github stats](https://github-readme-stats.vercel.app/api?username=Juri-Lee&show_icons=true)
