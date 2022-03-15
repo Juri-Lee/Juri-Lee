@@ -37,7 +37,9 @@
   <br>
   <br>
   <h1>Contact</h1>
-  <img src="https://img.shields.io/badge/Gmail-3DDC84?style=flat-square&logo=Gmail&logoColor=EA4335"/>
+  <a href="mailto: jurilee39@gmail.com " ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/jurilee" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/jurilee" ><img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=WordPress&logoColor=white"/></a>
   <br>
   <br>
  </div>
