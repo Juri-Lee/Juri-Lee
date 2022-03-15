@@ -35,8 +35,6 @@
 
 <h1>Contact</h1>
 <div aligh=center>
-  <br>
-  <br> 
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jurilee39@gmail.com)](mailto:jurilee39@gmail.com)
   
@@ -44,8 +42,7 @@
   
 [![WordPress Badge](https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=WordPress&logoColor=white&link=http://www.iamtheminions.com)](http://www.iamtheminions.com)
  
-  <br>
-  <br>
+
  </div>
 
 <div align=center> 
