@@ -37,9 +37,10 @@
   <br>
   <br>
   <h1>Contact</h1>
-  <a href="mailto: jurilee39@gmail.com " ><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/jurilee" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="www.linkedin.com/in/jurilee" ><img src="https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=WordPress&logoColor=white"/></a>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jurilee39@gmail.com)](mailto:jurilee39@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Gmail&logoColor=white&link=https://www.linkedin.com/in/jurilee)](www.linkedin.com/in/jurilee)
+  [![WordPress Badge](https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=Gmail&logoColor=white&link=http://www.iamtheminions.com)](http://www.iamtheminions.com)
+ 
   <br>
   <br>
  </div>
