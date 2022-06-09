@@ -54,7 +54,7 @@
 </div>
 <div align= center> 
   
-![🐚 click here to my portfolio 🧜‍♂️](https://jurilee.netlify.app)
+[🐚 click here to my portfolio 🧜‍♂️](https://jurilee.netlify.app)
   
 </div>
 <div align=center> 
