@@ -4,7 +4,7 @@
 
 </div>
 
-<div align=center><h1>🔧Tech STACK🔩</h1></div>
+<div align=center><h1>🔩Tech Stack</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -31,20 +31,38 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcm3603&count_bg=%232AA021&title_bg=%23727272&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)   
 
 </div> -->
+<br>
+<br>
+<div align=center>
+  <h1>🐥Projects🐣</h1>
+  
+</div>
 
-<div align=center><h1>🍒Contacts🍒</h1></div>
+<div align=center><h1>🍒Contact me🍒</h1></div>
 <div align=center>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jurilee39@gmail.com)](mailto:jurilee39@gmail.com)
-  
-<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/jurilee)](www.linkedin.com/in/jurilee) -->
-  
-<!-- [![WordPress Badge](https://img.shields.io/badge/Blog-21759B?style=flat-square&logo=WordPress&logoColor=white&link=http://www.iamtheminions.com)](http://www.iamtheminions.com) -->
- 
+<!-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/jurilee)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jujuri__/)
+ -->
 </div>
+<br>
+<br>
 
+<div align=center>
+  <h1>🌊Portfolio⚓</h1>
+</div>
+<div align= center> 
+  
+![🐚 click here to my portfolio 🧜‍♂️](https://jurilee.netlify.app)
+  
+</div>
 <div align=center> 
   
+  <br>
+  <br>
+  <br>
+
 ![Juri's github stats](https://github-readme-stats.vercel.app/api?username=Juri-Lee&show_icons=true)
 [![Juri's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Juri-Lee&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Juri-Lee)
 
