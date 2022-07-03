@@ -33,10 +33,10 @@
 </div> -->
 <br>
 <br>
-<div align=center>
+<!-- <div align=center>
   <h1>🐥Projects🐣</h1>
   
-</div>
+</div> -->
 
 <div align=center><h1>🍒Contact me🍒</h1></div>
 <div align=center>
@@ -54,7 +54,7 @@
 </div>
 <div align= center> 
   
-[🐚 click here to my portfolio 🧜‍♂️](https://jurilee.netlify.app)
+[🐚 click here to my portfolio 🧜‍♂️](https://www.notion.so/Spring-255a26cd190b4749ba82ab7d9272cb81)
   
 </div>
 <div align=center> 
